@@ -38,7 +38,7 @@ button:hover{
 /* Start Main Section */
 main header{
     width: 100%;
-    min-height: 100vh;
+    min-height: 120vh;
     background:#0008 url(../imges/home.jpg) no-repeat center/cover;
     background-blend-mode: multiply;
     padding: 5vh;
@@ -217,7 +217,7 @@ footer p{
 }
 @media screen and (max-width:660px) {
     main header{
-        min-height: 100vh;
+        min-height: 110vh;
         padding: 2vh;
     }
     main header .container .nav {
