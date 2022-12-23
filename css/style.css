@@ -38,7 +38,7 @@ button:hover{
 /* Start Main Section */
 main header{
     width: 100%;
-    min-height: 120vh;
+    min-height: 100vh;
     background:#0008 url(../imges/home.jpg) no-repeat center/cover;
     background-blend-mode: multiply;
     padding: 5vh;
