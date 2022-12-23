@@ -217,7 +217,7 @@ footer p{
 }
 @media screen and (max-width:660px) {
     main header{
-        min-height: 130vh;
+        min-height: 100vh;
         padding: 2vh;
     }
     main header .container .nav {
